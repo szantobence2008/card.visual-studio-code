@@ -1,0 +1,64 @@
+.cards{
+    background-color: rgb(105, 106, 107);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /*középre vízszintesen*/
+    height: 800px;
+    align-items: center;
+
+}
+
+.card{
+    background-color: rgb(182, 182, 182);
+    width: 250px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+h2, h3{
+    text-align: center;
+}
+body{
+    background-color: rgb(133, 133, 133);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.group{
+    width:250px;
+    text-align: center;
+    height: 180px;
+}
+
+.button{
+    margin: 30px 10px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.blog{
+        background-color: rgb(231, 235, 11);
+        text-align: center;
+        outline-style: outset;
+        position: relative;
+        left: 20px;
+        width: 100px;
+       
+}
+
+.also{
+    
+}
+
+p{
+    text-align: center;
+}
+
+#szija1{
+    position: relative;
+    top: -18px;
+}
